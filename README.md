@@ -48,7 +48,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** [https://your-username.github.io/your-repo-name/](https://your-username.github.io/your-repo-name/)
+🔗 **Live Website:** [https://mrajpurohit1912.github.io/portfolio/](https://mrajpurohit1912.github.io/portfolio/)
 
 ## 📸 Screenshots
 
